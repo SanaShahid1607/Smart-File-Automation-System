@@ -1,0 +1,49 @@
+{
+    "watch_directory": "C:\\Users\\Sabri Laptop\\Downloads",
+    "organized_base": "C:\\Users\\Sabri Laptop\\OrganizedFiles",
+    "rules": {
+        "Images": {
+            "extensions": [
+                ".jpg",
+                ".png",
+                ".gif"
+            ],
+            "name_patterns": [
+                "photo"
+            ],
+            "content_keywords": [
+                "image"
+            ]
+        },
+        "Documents": {
+            "extensions": [
+                ".pdf",
+                ".txt"
+            ],
+            "name_patterns": [
+                "report"
+            ],
+            "content_keywords": [
+                "document"
+            ]
+        },
+        "Videos": {
+            "extensions": [
+                ".mp4",
+                ".avi"
+            ],
+            "name_patterns": [
+                "video"
+            ],
+            "content_keywords": [
+                "video"
+            ]
+        },
+        "Others": {
+            "extensions": [],
+            "name_patterns": [],
+            "content_keywords": []
+        }
+    },
+    "log_file": "file_organizer.log"
+}
